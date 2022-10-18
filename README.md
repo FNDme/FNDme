@@ -1,5 +1,5 @@
 # 💾 About Me:
-🔭Actualmente, cursando el cuarto año del grado en Ingeniería Informática<br>🏢 Universidad de La Laguna<br>
+🔭 Actualmente, cursando el cuarto año del grado en Ingeniería Informática<br>🏢 Universidad de La Laguna<br>
 
 
 ## 🌐 Socials:
