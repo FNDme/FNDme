@@ -1,5 +1,5 @@
 # 💾 About Me:
-🔭 Actualmente, cursando el cuarto año del grado en Ingeniería Informática<br>🏢 Universidad de La Laguna<br>
+🔭 Currently working as a Frontend Developer<br>🏢 Expero Inc.<br>
 
 
 ## 🌐 Socials:
